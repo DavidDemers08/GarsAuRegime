@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: ArrierePlan
+    uniqueID: 4037745675
+    locked: 0
+  - name: DecorArriere
+    uniqueID: 3273806237
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: DecorDevant
+    uniqueID: 4073866007
     locked: 0
